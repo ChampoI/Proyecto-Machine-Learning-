@@ -1,0 +1,4 @@
+https://colab.research.google.com/drive/1kjWKuvYeIZS9tlye9SCSHlZhscf3Nv_1?usp=sharing              - #1 - Limpieza.ipynb
+https://colab.research.google.com/drive/1DLLyXXa-pI5ETMRCTm6Brp2raBd5dT1i#scrollTo=r6Wt-7sOg-uk    - #2 - EDA_L.ipynb
+https://colab.research.google.com/drive/16Rgv9MulbXerJZ5hxeBO_WpXVQqX-meR?usp=sharing              - #3 - Preparando El Modelo De Prediccion
+https://colab.research.google.com/drive/1SwC9FSE8C977IVfJHfDyX6vs25SSNhZx#scrollTo=Gqddqsspwkov    - #4 - Prediciendo Datos
