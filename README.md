@@ -89,16 +89,12 @@ Se incluyen dashboards de alto nivel generados en Tableau para una mejor interpr
 - Visualizaciones multianuales integradas.
 - Dataset: `dfml.csv_Varias_conexiones.hyper`
 
-![Dashboard Históricos](tableu/dashboard_historico.png)
-
 ---
 
 ### 📈 Predicciones Electivas – Bucaramanga 2023
 - Visualización de predicciones generadas por el modelo.
 - Exploración por comuna.
 - Dataset: `df_futuro_cantidad_sin_redondear.csv_Varias_conexiones.hyper`
-
-![Dashboard Predicciones](tableu/dashboard_predicciones.png)
 
 ---
 
@@ -131,13 +127,6 @@ source env/bin/activate  # En Windows: .\env\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 📜 Licencia
-
-Este proyecto se distribuye bajo la Licencia MIT.
-
 ---
 
 ## 👤 Autor
