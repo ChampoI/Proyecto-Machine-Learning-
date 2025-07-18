@@ -98,14 +98,13 @@ Se incluyen dashboards de alto nivel generados en Tableau para una mejor interpr
 
 ---
 
-## 🏳️ Identidad Territorial
+### 🏳️ Identidad Territorial
 
 Representación simbólica de la ciudad y el país:
 
-<div style="display: flex; gap: 20px;">
-  <img src="bandera_bucaramanga.png" alt="Bucaramanga" width="200"/>
-  <img src="Bandera-de-Colombia-1024x730.png" alt="Colombia" width="200"/>
-</div>
+| Bucaramanga | Colombia |
+|-------------|----------|
+| ![Bandera de Bucaramanga](bandera_bucaramanga.png) | ![Bandera de Colombia](Bandera-de-Colombia-1024x730.png) |
 
 ---
 
